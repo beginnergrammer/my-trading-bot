@@ -23,7 +23,7 @@ This bot fetches real-time cryptocurrency prices from Binance and sends updates 
 
 1. Clone the Repository
     ```sh
-    git clone https://github.com/your-repo/telegram-price-bot.git
+    git clone [https://github.com/your-repo/telegram-price-bot.git](https://github.com/beginnergrammer/my-trading-bot/blob/main/hunterfullv1.py)
     cd telegram-price-bot
     ```
 
